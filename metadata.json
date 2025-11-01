@@ -1,0 +1,5 @@
+{
+  "name": "Grand University Homepage",
+  "description": "A dynamic homepage for Grand University, showcasing upcoming and past events for each department. Includes a login portal for Heads of Department (HODs) to manage events.",
+  "requestFramePermissions": []
+}
